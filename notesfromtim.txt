@@ -1,0 +1,13 @@
+multicollinearity  - highly win correlated - not a linear causality
+
+
+reduce variables
+
+maybe combine gold and xp
+
+tried each separately
+composite metric
+
+damage can be useful - actual game not so much
+normalize damage on champion pick
+manipulated. 
